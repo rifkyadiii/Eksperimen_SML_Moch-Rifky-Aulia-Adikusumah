@@ -153,12 +153,6 @@ Perfect untuk:
 - **ML practitioners** needing clean datasets
 - **Automation enthusiasts** studying CI/CD for data
 
-## 📄 Author
-
-**Moch Rifky Aulia Adikusumah**
-- Notebook: Comprehensive EDA and preprocessing exploration
-- Automation: Production-ready preprocessing script
-
 ---
 
 > 🚀 **Ready-to-use**: Dataset siap digunakan untuk training model churn prediction!
